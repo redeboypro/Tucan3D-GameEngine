@@ -17,9 +17,8 @@ namespace Tucan3D_GameEngine.Core.Components
 
         public bool IsGrounded => isGrounded;
 
-        public void AssignLandingEvent()
-        {
-            
-        }
+        public void AssignLandingEvent(Action action) => landingEvent = action;
+        
+        public void 
     }
 }
