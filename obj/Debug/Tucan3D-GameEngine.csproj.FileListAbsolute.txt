@@ -1,0 +1,14 @@
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\Tucan3D_GameEngine.dll
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\Tucan3D_GameEngine.pdb
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\GLWpfControl.dll
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\OpenTK.dll
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\GLWpfControl.pdb
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\OpenTK.pdb
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\OpenTK.xml
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\obj\Debug\Tucan3D-GameEngine.csproj.AssemblyReference.cache
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\obj\Debug\Tucan3D-GameEngine.csproj.CoreCompileInputs.cache
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\obj\Debug\Tucan3D-GameEngine.csproj.CopyComplete
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\obj\Debug\Tucan3D_GameEngine.dll
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\obj\Debug\Tucan3D_GameEngine.pdb
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\AssimpNet.dll
+D:\GameEngine\OpenGL-3D-GameEngine\Tucan3D-GameEngine\bin\Debug\AssimpNet.xml
